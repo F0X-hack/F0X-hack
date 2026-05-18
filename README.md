@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm FoXhack</h1>
+<h1 align="center">Hi, I'm FoXhack</h1>
 <h3 align="center">A passionate offsec from French</h3>
 
 <p align="left">
