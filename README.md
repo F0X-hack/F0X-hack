@@ -81,13 +81,13 @@ class FoXhack:
 ![Ghidra](https://img.shields.io/badge/Ghidra-B44FFF?style=flat-square&logo=nsa&logoColor=0a0a0f)
  
 ### 📡 Hardware & Physical
-![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-FF6B35?style=flat-square&logo=flipboard&logoColor=white)
-![HackRF One](https://img.shields.io/badge/HackRF%20One-FF6B35?style=flat-square&logo=radio&logoColor=white)
-![Proxmark](https://img.shields.io/badge/Proxmark%203-FF6B35?style=flat-square&logo=nfc&logoColor=white)
-![Bus Pirate](https://img.shields.io/badge/Bus%20Pirate-FF6B35?style=flat-square&logo=raspberrypi&logoColor=white)
-![Chameleon Ultra](https://img.shields.io/badge/Chameleon%20Ultra-FF6B35?style=flat-square&logo=contactlesspayment&logoColor=white)
-![Rubber Ducky](https://img.shields.io/badge/USB%20Rubber%20Ducky-FF6B35?style=flat-square&logo=usb&logoColor=white)
-![WiFi Pineapple](https://img.shields.io/badge/WiFi%20Pineapple-FF6B35?style=flat-square&logo=wifi&logoColor=white)
+![Flipper Zero](https://img.shields.io/badge/Flipper%20Zero-B44FFF?style=flat-square&logo=flipboard&logoColor=0a0a0f)
+![HackRF One](https://img.shields.io/badge/HackRF%20One-B44FFF?style=flat-square&logo=radio&logoColor=0a0a0f)
+![Proxmark](https://img.shields.io/badge/Proxmark%203-B44FFF?style=flat-square&logo=nfc&logoColor=0a0a0f)
+![Bus Pirate](https://img.shields.io/badge/Bus%20Pirate-B44FFF?style=flat-square&logo=raspberrypi&logoColor=0a0a0f)
+![Chameleon Ultra](https://img.shields.io/badge/Chameleon%20Ultra-B44FFF?style=flat-square&logo=contactlesspayment&logoColor=0a0a0f)
+![Rubber Ducky](https://img.shields.io/badge/USB%20Rubber%20Ducky-B44FFF?style=flat-square&logo=usb&logoColor=0a0a0f)
+![WiFi Pineapple](https://img.shields.io/badge/WiFi%20Pineapple-B44FFF?style=flat-square&logo=wifi&logoColor=0a0a0f)
  
 ### 🏴 CTF & Platforms
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-7B2FBE?style=flat-square&logo=hackthebox&logoColor=white)
